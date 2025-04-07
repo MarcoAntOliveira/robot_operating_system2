@@ -1,0 +1,86 @@
+[0.011s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/marco/projects/ros/catkin_ws/src/src/examples/rclcpp/actions/minimal_action_client -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client
+[0.106s] -- The C compiler identification is GNU 11.4.0
+[0.197s] -- The CXX compiler identification is GNU 11.4.0
+[0.204s] -- Detecting C compiler ABI info
+[0.277s] -- Detecting C compiler ABI info - done
+[0.287s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.287s] -- Detecting C compile features
+[0.288s] -- Detecting C compile features - done
+[0.295s] -- Detecting CXX compiler ABI info
+[0.405s] -- Detecting CXX compiler ABI info - done
+[0.410s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.410s] -- Detecting CXX compile features
+[0.412s] -- Detecting CXX compile features - done
+[0.414s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.580s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.664s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.698s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[0.744s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.749s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.761s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.778s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.799s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.867s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.905s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.907s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.989s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.015s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.057s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.063s] -- Looking for pthread.h
+[1.134s] -- Looking for pthread.h - found
+[1.135s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.210s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.211s] -- Found Threads: TRUE  
+[1.286s] -- Found rclcpp_action: 16.0.11 (/opt/ros/humble/share/rclcpp_action/cmake)
+[1.304s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.396s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.396s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.396s] -- Configured cppcheck include dirs: 
+[1.396s] -- Configured cppcheck exclude dirs and/or files: 
+[1.398s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.398s] -- Configured cpplint exclude dirs and/or files: 
+[1.399s] -- Added test 'lint_cmake' to check CMake code style
+[1.399s] -- Added test 'uncrustify' to check C / C++ code style
+[1.400s] -- Configured uncrustify additional arguments: 
+[1.400s] -- Added test 'xmllint' to check XML markup files
+[1.401s] -- Configuring done
+[1.442s] -- Generating done
+[1.452s] -- Build files have been written to: /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client
+[1.463s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/marco/projects/ros/catkin_ws/src/src/examples/rclcpp/actions/minimal_action_client -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client
+[1.464s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client -- -j4 -l4
+[1.574s] [ 12%] [32mBuilding CXX object CMakeFiles/action_client_not_composable.dir/not_composable.cpp.o[0m
+[1.582s] [ 25%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_cancel.dir/not_composable_with_cancel.cpp.o[0m
+[1.592s] [ 37%] [32mBuilding CXX object CMakeFiles/action_client_member_functions.dir/member_functions.cpp.o[0m
+[1.597s] [ 50%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_feedback.dir/not_composable_with_feedback.cpp.o[0m
+[13.629s] [ 62%] [32m[1mLinking CXX executable action_client_not_composable_with_feedback[0m
+[13.831s] [ 75%] [32m[1mLinking CXX executable action_client_not_composable[0m
+[14.264s] [ 75%] Built target action_client_not_composable_with_feedback
+[14.428s] [ 75%] Built target action_client_not_composable
+[15.350s] [ 87%] [32m[1mLinking CXX executable action_client_member_functions[0m
+[15.818s] [ 87%] Built target action_client_member_functions
+[16.540s] [100%] [32m[1mLinking CXX executable action_client_not_composable_with_cancel[0m
+[17.019s] [100%] Built target action_client_not_composable_with_cancel
+[17.048s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client -- -j4 -l4
+[17.049s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client
+[17.060s] -- Install configuration: ""
+[17.061s] -- Execute custom install script
+[17.062s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[17.086s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[17.105s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[17.121s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[17.131s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[17.146s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[17.155s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[17.175s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[17.194s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[17.200s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[17.218s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[17.237s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[17.253s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[17.277s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[17.292s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[17.301s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[17.313s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[17.323s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[17.340s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[17.358s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_action_client

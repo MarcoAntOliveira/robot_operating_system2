@@ -1,0 +1,40 @@
+[0.017s] Invoking command in '/home/marco/projects/ros/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/examples_rclcpp_minimal_action_client -- -j4 -l4
+[0.080s] [ 12%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_cancel.dir/not_composable_with_cancel.cpp.o[0m
+[0.096s] [ 25%] [32mBuilding CXX object CMakeFiles/action_client_not_composable.dir/not_composable.cpp.o[0m
+[0.100s] [ 37%] [32mBuilding CXX object CMakeFiles/action_client_member_functions.dir/member_functions.cpp.o[0m
+[0.123s] [ 50%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_feedback.dir/not_composable_with_feedback.cpp.o[0m
+[11.255s] [ 62%] [32m[1mLinking CXX executable action_client_not_composable[0m
+[12.180s] [ 62%] Built target action_client_not_composable
+[13.827s] [ 75%] [32m[1mLinking CXX executable action_client_not_composable_with_feedback[0m
+[14.327s] [ 75%] Built target action_client_not_composable_with_feedback
+[14.907s] [ 87%] [32m[1mLinking CXX executable action_client_member_functions[0m
+[15.476s] [ 87%] Built target action_client_member_functions
+[16.323s] [100%] [32m[1mLinking CXX executable action_client_not_composable_with_cancel[0m
+[16.837s] [100%] Built target action_client_not_composable_with_cancel
+[16.873s] Invoked command in '/home/marco/projects/ros/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/examples_rclcpp_minimal_action_client -- -j4 -l4
+[16.874s] Invoking command in '/home/marco/projects/ros/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/examples_rclcpp_minimal_action_client
+[16.887s] -- Install configuration: ""
+[16.887s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[16.888s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions" to ""
+[16.893s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[16.893s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable" to ""
+[16.893s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[16.893s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel" to ""
+[16.893s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[16.894s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback" to ""
+[16.900s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[16.900s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[16.900s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[16.900s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[16.900s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[16.900s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[16.901s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[16.912s] Invoked command in '/home/marco/projects/ros/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/examples_rclcpp_minimal_action_client

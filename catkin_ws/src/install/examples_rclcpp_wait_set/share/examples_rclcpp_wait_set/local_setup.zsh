@@ -1,0 +1,1 @@
+/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_wait_set/ament_cmake_environment_hooks/local_setup.zsh

@@ -1,0 +1,44 @@
+[0.014s] Invoking command in '/home/marco/projects/ros/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/examples_rclcpp_cbg_executor -- -j4 -l4
+[0.061s] [ 10%] [32mBuilding CXX object CMakeFiles/ping.dir/src/ping.cpp.o[0m
+[0.075s] [ 20%] [32mBuilding CXX object CMakeFiles/ping.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[0.086s] [ 30%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/ping_pong.cpp.o[0m
+[0.101s] [ 40%] [32mBuilding CXX object CMakeFiles/pong.dir/src/pong.cpp.o[0m
+[5.892s] [ 50%] [32mBuilding CXX object CMakeFiles/pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[9.410s] [ 60%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[11.952s] [ 70%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[26.290s] [ 80%] [32m[1mLinking CXX executable pong[0m
+[26.457s] [ 90%] [32m[1mLinking CXX executable ping[0m
+[26.926s] [ 90%] Built target pong
+[27.411s] [ 90%] Built target ping
+[30.370s] [100%] [32m[1mLinking CXX executable ping_pong[0m
+[31.123s] [100%] Built target ping_pong
+[31.135s] Invoked command in '/home/marco/projects/ros/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/examples_rclcpp_cbg_executor -- -j4 -l4
+[31.136s] Invoking command in '/home/marco/projects/ros/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/examples_rclcpp_cbg_executor
+[31.145s] -- Install configuration: ""
+[31.146s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping
+[31.149s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping" to ""
+[31.150s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong
+[31.152s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong" to ""
+[31.153s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong
+[31.155s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong" to ""
+[31.155s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/include
+[31.156s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor
+[31.156s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/pong_node.hpp
+[31.156s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/ping_node.hpp
+[31.156s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_cbg_executor
+[31.157s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_cbg_executor
+[31.157s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.sh
+[31.157s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.dsv
+[31.157s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.sh
+[31.158s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.dsv
+[31.158s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.bash
+[31.158s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.sh
+[31.158s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.zsh
+[31.159s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.dsv
+[31.159s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.dsv
+[31.159s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/packages/examples_rclcpp_cbg_executor
+[31.159s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/ament_cmake_export_dependencies-extras.cmake
+[31.160s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig.cmake
+[31.160s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig-version.cmake
+[31.160s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.xml
+[31.165s] Invoked command in '/home/marco/projects/ros/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/examples_rclcpp_cbg_executor

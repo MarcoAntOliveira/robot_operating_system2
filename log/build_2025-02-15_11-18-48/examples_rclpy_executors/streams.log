@@ -1,0 +1,57 @@
+[0.861s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/src/examples/rclpy/executors': PYTHONPATH=/home/marco/projects/ros/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../../build/examples_rclpy_executors build --build-base /home/marco/projects/ros/build/examples_rclpy_executors/build install --record /home/marco/projects/ros/build/examples_rclpy_executors/install.log --single-version-externally-managed install_data
+[1.152s] running egg_info
+[1.153s] creating ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info
+[1.154s] writing ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[1.154s] writing dependency_links to ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[1.155s] writing entry points to ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[1.155s] writing requirements to ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[1.155s] writing top-level names to ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[1.155s] writing manifest file '../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[1.167s] reading manifest file '../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[1.168s] writing manifest file '../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[1.168s] running build
+[1.168s] running build_py
+[1.168s] creating /home/marco/projects/ros/build/examples_rclpy_executors/build
+[1.168s] creating /home/marco/projects/ros/build/examples_rclpy_executors/build/lib
+[1.168s] creating /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.168s] copying examples_rclpy_executors/listener.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.168s] copying examples_rclpy_executors/composed.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.169s] copying examples_rclpy_executors/__init__.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.169s] copying examples_rclpy_executors/talker.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.169s] copying examples_rclpy_executors/custom_callback_group.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.170s] copying examples_rclpy_executors/custom_executor.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.170s] copying examples_rclpy_executors/callback_group.py -> /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[1.171s] running install
+[1.171s] running install_lib
+[1.172s] creating /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.173s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/listener.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.173s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/composed.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.173s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/__init__.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.173s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/talker.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.174s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_callback_group.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.174s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_executor.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.175s] copying /home/marco/projects/ros/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/callback_group.py -> /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[1.175s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/listener.py to listener.cpython-310.pyc
+[1.175s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/composed.py to composed.cpython-310.pyc
+[1.176s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/__init__.py to __init__.cpython-310.pyc
+[1.176s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/talker.py to talker.cpython-310.pyc
+[1.178s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_callback_group.py to custom_callback_group.cpython-310.pyc
+[1.178s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_executor.py to custom_executor.cpython-310.pyc
+[1.179s] byte-compiling /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/callback_group.py to callback_group.cpython-310.pyc
+[1.179s] running install_data
+[1.180s] creating /home/marco/projects/ros/install/examples_rclpy_executors/share/ament_index
+[1.180s] creating /home/marco/projects/ros/install/examples_rclpy_executors/share/ament_index/resource_index
+[1.180s] creating /home/marco/projects/ros/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[1.180s] copying resource/examples_rclpy_executors -> /home/marco/projects/ros/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[1.180s] copying package.xml -> /home/marco/projects/ros/install/examples_rclpy_executors/share/examples_rclpy_executors
+[1.181s] running install_egg_info
+[1.183s] Copying ../../../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.3-py3.10.egg-info
+[1.185s] running install_scripts
+[1.210s] Installing callback_group script to /home/marco/projects/ros/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.210s] Installing composed script to /home/marco/projects/ros/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.211s] Installing custom_callback_group script to /home/marco/projects/ros/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.211s] Installing custom_executor script to /home/marco/projects/ros/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.211s] Installing listener script to /home/marco/projects/ros/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.212s] Installing talker script to /home/marco/projects/ros/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[1.212s] writing list of installed files to '/home/marco/projects/ros/build/examples_rclpy_executors/install.log'
+[1.246s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/marco/projects/ros/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/marco/projects/ros/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../../build/examples_rclpy_executors build --build-base /home/marco/projects/ros/build/examples_rclpy_executors/build install --record /home/marco/projects/ros/build/examples_rclpy_executors/install.log --single-version-externally-managed install_data

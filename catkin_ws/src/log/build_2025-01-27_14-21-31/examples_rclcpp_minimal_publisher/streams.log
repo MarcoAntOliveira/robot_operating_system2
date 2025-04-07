@@ -1,0 +1,92 @@
+[0.033s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/marco/projects/ros/catkin_ws/src/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher
+[0.166s] -- The C compiler identification is GNU 11.4.0
+[0.304s] -- The CXX compiler identification is GNU 11.4.0
+[0.323s] -- Detecting C compiler ABI info
+[0.471s] -- Detecting C compiler ABI info - done
+[0.491s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.494s] -- Detecting C compile features
+[0.494s] -- Detecting C compile features - done
+[0.499s] -- Detecting CXX compiler ABI info
+[0.719s] -- Detecting CXX compiler ABI info - done
+[0.745s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.745s] -- Detecting CXX compile features
+[0.745s] -- Detecting CXX compile features - done
+[0.750s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.120s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.320s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.381s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.467s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.479s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.488s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.518s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.565s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.659s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.665s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.854s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.924s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.025s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.040s] -- Looking for pthread.h
+[2.233s] -- Looking for pthread.h - found
+[2.233s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.407s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.409s] -- Found Threads: TRUE  
+[2.617s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.831s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.831s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.835s] -- Configured cppcheck include dirs: 
+[2.835s] -- Configured cppcheck exclude dirs and/or files: 
+[2.836s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.837s] -- Configured cpplint exclude dirs and/or files: 
+[2.843s] -- Added test 'lint_cmake' to check CMake code style
+[2.843s] -- Added test 'uncrustify' to check C / C++ code style
+[2.843s] -- Configured uncrustify additional arguments: 
+[2.843s] -- Added test 'xmllint' to check XML markup files
+[2.853s] -- Configuring done
+[2.933s] -- Generating done
+[2.956s] -- Build files have been written to: /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher
+[2.987s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/marco/projects/ros/catkin_ws/src/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher
+[2.993s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher -- -j4 -l4
+[3.125s] [  8%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[3.125s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[3.131s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[3.152s] [ 33%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[16.584s] [ 41%] [32m[1mLinking CXX executable publisher_member_function_with_unique_network_flow_endpoints[0m
+[17.414s] [ 41%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[17.852s] [ 50%] [32m[1mLinking CXX executable publisher_member_function[0m
+[18.574s] [ 50%] Built target publisher_member_function
+[19.080s] [ 58%] [32m[1mLinking CXX executable publisher_lambda[0m
+[19.539s] [ 58%] Built target publisher_lambda
+[20.281s] [ 66%] [32m[1mLinking CXX executable publisher_member_function_with_type_adapter[0m
+[20.532s] [ 66%] Built target publisher_member_function_with_type_adapter
+[20.553s] [ 75%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[25.586s] [ 83%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[25.806s] [ 83%] Built target publisher_not_composable
+[25.829s] [ 91%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[31.023s] [100%] [32m[1mLinking CXX executable publisher_wait_for_all_acked[0m
+[31.276s] [100%] Built target publisher_wait_for_all_acked
+[31.292s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher -- -j4 -l4
+[31.292s] Invoking command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher
+[31.299s] -- Install configuration: ""
+[31.299s] -- Execute custom install script
+[31.300s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[31.309s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[31.319s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter
+[31.331s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints
+[31.337s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked
+[31.346s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[31.356s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[31.366s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[31.376s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[31.386s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[31.395s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[31.404s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[31.413s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[31.422s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[31.432s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[31.442s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[31.451s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[31.461s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[31.470s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[31.480s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[31.489s] -- Symlinking: /home/marco/projects/ros/catkin_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml
+[31.501s] Invoked command in '/home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/catkin_ws/src/build/examples_rclcpp_minimal_publisher

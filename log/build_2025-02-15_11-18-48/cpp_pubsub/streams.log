@@ -1,0 +1,25 @@
+[0.015s] Invoking command in '/home/marco/projects/ros/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/cpp_pubsub -- -j4 -l4
+[0.076s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[13.691s] [100%] [32m[1mLinking CXX executable talker[0m
+[14.173s] [100%] Built target talker
+[14.203s] Invoked command in '/home/marco/projects/ros/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/cpp_pubsub -- -j4 -l4
+[14.203s] Invoking command in '/home/marco/projects/ros/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/cpp_pubsub
+[14.218s] -- Install configuration: ""
+[14.219s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/lib/cpp_pubsub/talker
+[14.224s] -- Set runtime path of "/home/marco/projects/ros/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[14.225s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[14.226s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[14.226s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[14.226s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[14.227s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[14.227s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[14.228s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[14.228s] -- Installing: /home/marco/projects/ros/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[14.230s] Invoked command in '/home/marco/projects/ros/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/cpp_pubsub

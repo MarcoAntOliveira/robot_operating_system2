@@ -1,0 +1,10 @@
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/uninstall.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/examples_rclcpp_minimal_client_uninstall.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/client_main.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/test.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/edit_cache.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/rebuild_cache.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/list_install_components.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/install.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/install/local.dir
+/home/marco/projects/ros/build/examples_rclcpp_minimal_client/CMakeFiles/install/strip.dir

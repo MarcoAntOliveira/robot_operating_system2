@@ -1,0 +1,5 @@
+gmake[2]: *** [CMakeFiles/client_main.dir/build.make:76: CMakeFiles/client_main.dir/main.cpp.o] Interrupção
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/client_main.dir/all] Interrupção
+gmake: *** wait: Não há processos filhos.  Pare.
+gmake: ** Esperando que outros processos terminem.
+gmake: *** wait: Não há processos filhos.  Pare.

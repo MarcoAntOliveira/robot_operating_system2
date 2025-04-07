@@ -1,0 +1,25 @@
+[0.015s] Invoking command in '/home/marco/projects/ros/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/examples_rclcpp_async_client -- -j4 -l4
+[0.079s] [ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[12.955s] [100%] [32m[1mLinking CXX executable client_main[0m
+[13.611s] [100%] Built target client_main
+[13.647s] Invoked command in '/home/marco/projects/ros/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/marco/projects/ros/build/examples_rclcpp_async_client -- -j4 -l4
+[13.671s] Invoking command in '/home/marco/projects/ros/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/examples_rclcpp_async_client
+[13.698s] -- Install configuration: ""
+[13.698s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main
+[13.699s] -- Set runtime path of "/home/marco/projects/ros/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main" to ""
+[13.699s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_async_client
+[13.699s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_async_client
+[13.706s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.sh
+[13.706s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.dsv
+[13.706s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.sh
+[13.707s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.dsv
+[13.707s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.bash
+[13.707s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.sh
+[13.707s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.zsh
+[13.707s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.dsv
+[13.707s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.dsv
+[13.709s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/ament_index/resource_index/packages/examples_rclcpp_async_client
+[13.709s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig.cmake
+[13.709s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig-version.cmake
+[13.710s] -- Installing: /home/marco/projects/ros/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.xml
+[13.721s] Invoked command in '/home/marco/projects/ros/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/marco/projects/ros/build/examples_rclcpp_async_client

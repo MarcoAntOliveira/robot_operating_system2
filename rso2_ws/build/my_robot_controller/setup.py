@@ -1,1 +1,0 @@
-/home/marco/projects/ros/rso2_ws/src/my_robot_controller/setup.py

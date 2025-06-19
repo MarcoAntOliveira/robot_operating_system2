@@ -1,9 +1,4 @@
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/drone.urdf.xacro
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/log/COLCON_IGNORE
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2025-05-16_14-45-57/logger_all.log
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2025-05-16_14-45-57/events.log
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest_build
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.sh
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.zsh
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/install/COLCON_IGNORE
@@ -19,8 +14,7 @@
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/build/COLCON_IGNORE
-/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/build/.built_by
+/home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
 /home/marco/projects/robot_operating_system2/rso2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz

@@ -43,7 +43,10 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot_bringup/" TYPE DIRECTORY FILES "/home/marco/projects/robot_operating_system2/rso2_ws/src/my_robot_bringup/launch")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot_bringup/" TYPE DIRECTORY FILES
+    "/home/marco/projects/robot_operating_system2/rso2_ws/src/my_robot_bringup/launch"
+    "/home/marco/projects/robot_operating_system2/rso2_ws/src/my_robot_bringup/config"
+    )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)

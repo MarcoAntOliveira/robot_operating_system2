@@ -5,9 +5,12 @@ esse repositorio é a dedicado ao aprendizado e desenvolvimento de tecnologias c
 
 ### ROS2 comandos
 Atualizar o ambiente
+
 ```bash
 source /opt/ros/humble/setup.bash
 ```
+
+
 
 
 ### spwan robot in the gazebo
@@ -19,3 +22,8 @@ ros2 launch ros_gz_sim gz_sim.launch.py gz_args:="empty.sdf -r"
 
 ros2 run ros_gz_sim create -topic robot_description
 ```
+
+
+ros2 run demo_nodes_cpp talker
+ros2 pkg executables demo_nodes_cpp
+
